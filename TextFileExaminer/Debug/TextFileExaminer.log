@@ -1,0 +1,7 @@
+﻿  TextFileExaminer.cpp
+c:\users\nate\source\repos\textfileexaminer\textfileexaminer\textfileexaminer.cpp(37): warning C4101: 'index': unreferenced local variable
+  main.cpp
+c:\users\nate\source\repos\textfileexaminer\textfileexaminer\main.cpp(93): warning C4101: 'e': unreferenced local variable
+c:\users\nate\source\repos\textfileexaminer\textfileexaminer\main.cpp(102): warning C4101: 'textf': unreferenced local variable
+  Generating Code...
+  TextFileExaminer.vcxproj -> C:\Users\Nate\source\repos\TextFileExaminer\Debug\TextFileExaminer.exe
